@@ -89,7 +89,7 @@ Example Q\&A JSON:
 
   * Adapters pushed to Hugging Face Hub
   * Full model can be merged and exported to GGUF/q4\_k\_m for llama.cpp or VLLM inference
-
+* **Notebook Link** https://colab.research.google.com/drive/1L7PV34blo-YzlXRuxuEZHbttyFq3Kr0N?usp=sharing
 ---
 
 ## Setup & Usage
