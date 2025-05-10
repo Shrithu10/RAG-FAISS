@@ -4,7 +4,7 @@ from PIL import Image
 
 def query_stabilitydiff(prompt):
     API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-    headers = {"Authorization": "Bearer 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"}
+    headers = {"Authorization": "Bearer "}
     response = requests.post(API_URL, headers=headers, json={"inputs": prompt})
     return Image.open(io.BytesIO(response.content))
 
