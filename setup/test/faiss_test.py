@@ -1,7 +1,7 @@
 import faiss
 
 # Load the index
-index = faiss.read_index(r'C:\Users\Administrator 1\Desktop\techolution_rag\setup\lawyer_gpt_faiss.index')
+index = faiss.read_index(r'faiss.index')
 
 
 # Check the number of vectors in the index
