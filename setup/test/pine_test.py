@@ -1,6 +1,6 @@
 from pinecone import Pinecone
 
-PINECONE_API_KEY = "pcsk_2FhJwo_BLN5kyXcVHymEv87MHdzsv9MJmCmwCAfKGx4TJ1zvTrdJok7Phcj3kwYM2pxfY9"
+PINECONE_API_KEY = ""
 INDEX_NAME = "legal-data"
 
 pc = Pinecone(api_key=PINECONE_API_KEY)
