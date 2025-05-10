@@ -2,7 +2,6 @@ import streamlit as st
 import sys
 
 # Add the path to the t2i module
-sys.path.append(r"C:\Users\Administrator 1\Desktop\techolution_rag")
 from t2i import query_stabilitydiff
 
 st.title("💬 Text to Image")
