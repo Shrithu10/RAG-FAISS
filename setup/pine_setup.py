@@ -4,7 +4,7 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 
 # Config
-PINECONE_API_KEY = "pcsk_2FhJwo_BLN5kyXcVHymEv87MHdzsv9MJmCmwCAfKGx4TJ1zvTrdJok7Phcj3kwYM2pxfY9"
+PINECONE_API_KEY = ""
 PINECONE_ENVIRONMENT = "us-east-1"
 INDEX_NAME = "legal-data"
 EMBEDDING_DIM = 384
