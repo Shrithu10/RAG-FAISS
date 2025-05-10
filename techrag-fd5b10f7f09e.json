@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "techrag",
+  "private_key_id": "fd5b10f7f09e83abc46d1b2e2e5eb1c5348c6795",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDW1NSsP+fFF31X\nanX0OGImtderkVljsI68ABwnqdbbdaJ/PFdrGeQ2tA90ZoyU8slZ9mq+5HnEkjxT\n8eR369TvNGH2aFUHmsNr99Y+pjrF4HaOY1YWRJRytpVYgfrVxGoVJ2YizR1W4wZI\nHO9Qci7iih6d8hecbGBkBldERZg2UZmdZ2T2UYFzLk2X3bkJWCRKeOaoGDWg2NX/\nWBSoNEYTQTj4IM64K9uUoIqcoSwTaDsC2mWU6hMBPCT6UoyzFLXiIw1eWlsZofS4\nUy+ekI5ERSJbZELdPCnvyZCMM17qoBsni15NCO3cWR6V1dFWLG0kSGGmHRCcH/9k\nWdaQNWHLAgMBAAECggEAIPTl1VuOYjF1eeIWoKBqX5bjiZSS2n9nk4FkJao2kFSO\nWPzi9PFeuGJMwVDJaJY1pmvuOe+nRdfLPR4tgZTNBeSK0g11BzrKQkzIcgmimDWU\nP8lkbPvDVt/Erx8YNxAFLXlDABFoWqpu4xmGla2WnLaPS4VWnZll+3eaOUUrPHW7\nGdG988B5aOOdM7WELbJLxArZAsugg4Cxv/cHV9XUx8kfUuJmj6+j6THmpeot8vf6\nPZv0Qlw/n1EXnDBwGLgMOCeFbhwFuPK90Ghhv8I7YGkZxdRKxIc8gT8/u9/GHNeE\nmD0FuTIn+5hvDVtYdj5s/7ROFu15bJ1SF6yE5JdzmQKBgQD6Bpkfqy6wDmcp/qCw\n1ultoMWYIBmw+FIALhMO+EVQSCPOIZWhmHpR2LY8jfOaFZ/NdBc0anVAgsfu5eG4\nsSod5Iu5GREZZu6N0O85TUFV1Kki/yazXaft6exzl7ezbJ8+BHecyVg7ouqxtgNM\nPduiEaljgmR3aRrYausfWT/emQKBgQDb9vMC0YXQTV9jV04agPCHWkdWntxTi6aT\nqjtrSat+QCDFe03lmblDeBQNFtFbjmsfSnl0bCIts1OVFmvfYZTG2ICjuob0Dclt\n4H1BbxSRQWll43jwB1SNBEL3HS1IWW9vFpWqG8ID0XBLBb5VGW4qw2pG6TBNrItP\npbL1d/22AwKBgAaHC5JfFr3z8k+PXUSgp8F79AyvsdwD76gfi9HVO4IIEB8+kzh/\n0Zm3bbKRBi4cqGplwIFW0i7X+z5KdCUtQus630b6145xOIMtVEGLucvy3GOUg78l\nD9BPTiQKbvpZOKMW3MSUISCVdUkkdluUNdq6WVDGw7a2YMQLro3H97npAoGAULyg\nz90F58Iui/EEqve+0X+ShbnDlyrAFp06OBQPTUTOgo3Str6o4JnXikJgz+FDcnXM\nhK4YEXwr5qIXMCPKDv5yoSYa2MOitqDaeMUD4JkIzawjvL6EC0qQJdHgyBiDrVu1\nzX1oxiv+sprGFMhDxpB5ltOKtkfpzm88c5r6Ve8CgYADaXlWw91GzeVj4rC8Gx5b\nVmDQ+T8nygPZKXOvEszp6Ovx5hKfMwBedAeVKzb9sojFri/qCwogEore4hUOQI7G\n5f0kPjhqJIcPJiCGVtKaCixIQHz/gF5loiXWe2zd8qAAGIfO5JIRU3gSNJtq6PJr\njZCwfKuUWL4j4V1eqbTKsw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shrithu-t2s-rag@techrag.iam.gserviceaccount.com",
+  "client_id": "102807958861850320735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shrithu-t2s-rag%40techrag.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
