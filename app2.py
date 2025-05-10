@@ -12,10 +12,10 @@ from pinecone import Pinecone, ServerlessSpec
 PINECONE_API_KEY = ""
 PINECONE_ENVIRONMENT = "us-east-1"
 INDEX_NAME = "legal-data"
-INDEX_FILE = r"C:\Users\Administrator 1\Desktop\techolution_rag\setup\lawyer_gpt_faiss.index"
-METADATA_FILE = r"C:\Users\Administrator 1\Desktop\techolution_rag\setup\lawyer_gpt_metadata.pkl"
+INDEX_FILE = r"\setup\lawyer_gpt_faiss.index"
+METADATA_FILE = r"\setup\lawyer_gpt_metadata.pkl"
 
-#METADATA_FILE = "C:\Users\Administrator 1\Desktop\techolution_rag\setup\lawyer_gpt_metadata.pkl"
+#METADATA_FILE = "\setup\lawyer_gpt_metadata.pkl"
 GEMINI_API_KEY = ""  # Replace with your actual Gemini API key
 EMBEDDING_DIM = 384
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
